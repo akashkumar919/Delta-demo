@@ -1,2 +1,7 @@
 # Delta-demo
-This is repo for delta demo.
+This is repository for delta demo.
+ 
+
+# student
+Akash kumar
+
